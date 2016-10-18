@@ -7,3 +7,5 @@ line5
 line7
 
 topic-a
+
+topic-b
